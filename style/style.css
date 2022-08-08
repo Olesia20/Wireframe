@@ -20,6 +20,13 @@ li {
   line-height: 1.5;
   list-style: none;
 }
+  h4 {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 17px;
+  font-weight: 200;
+  color: rgb(68, 70, 70);
+text-align: center;
+}
 .weather {
   border: 0px solid );
   padding: 20px;
