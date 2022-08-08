@@ -1,0 +1,89 @@
+h1 {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 30px;
+  color: rgb(148, 151, 151);
+  height: 28px;
+}
+ul {
+  margin: 0 0 20px;
+  padding: 0;
+}
+li {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 17px;
+  font-weight: 200;
+  color: rgb(148, 151, 151);
+  display: block;
+  text-align: left;
+  line-height: 1.5;
+  list-style: none;
+}
+.weather {
+  border: 0px solid );
+  padding: 20px;
+  margin: 15px auto;
+  border-radius: 20px;
+  max-width: 700px;
+  background-color: #dce1e3;
+  box-shadow: 5px 5px 5px 0;
+}
+.cloudy-sun {
+  margin: 20px;
+}
+.temp {
+  color: rgb(100, 7, 7);
+  font-size: 40px;
+  line-height: 3;
+}
+.celsius{
+font-size: 40px;
+}
+.fahrenheit{
+font-size: 40px;
+}
+.degry {
+  color: rgb(148, 151, 151);
+  font-weight: 200;
+}
+.button {
+  border: 0px solid #247291;
+  background: #276577;
+  color: aliceblue;
+  border-radius: 8px;
+}
+.buttonNew{
+  position: relative;
+  margin-left: 340px;
+  padding: 8px 8px;
+  border: 1px #247291;
+  background: #276577;
+  color: aliceblue;
+  border-radius: 8px;
+ 
+}
+.week {
+  border: 1px solid  #276577;
+  margin-top: 80px;
+  margin-right: 10px;
+  margin-left: 10px;
+  border-radius: 10px;
+}
+
+.icons {
+  display: block;
+  margin: 0 auto;
+}
+.data {
+  text-align: center;
+}
+.data-week {
+  text-align: center;
+  color: #276577;
+  font-weight: 400;
+}
+a{
+  text-decoration: none;
+  color: rgb(253, 251, 255);
+}
